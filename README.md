@@ -28,6 +28,7 @@ Command : $`timer <seconds> [m]`
 A stopwatch begins and shows the time elapsed till any key is pressed
 
 Command : $`stpw`
+
 ![Stopwatch Screenshot](Stopwatch.PNG)
 
 
