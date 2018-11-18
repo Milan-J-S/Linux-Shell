@@ -9,3 +9,7 @@ To run:
 2. In the terminal execute `./a.out`
 
 Now the shell should show up with a light blue text 
+
+![Shell Screenshot](Shell.PNG)
+
+
