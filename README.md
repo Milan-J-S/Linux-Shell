@@ -17,6 +17,7 @@ Along with the standard functionality of a linux shell, our custom implementatti
 
 1. Timer
 A timer which sets the timer for a given number of seconds or minutes as an option, and notifies the user after the time elapses
+
 Command : $`timer <seconds> [m]`
 
 ![Timer Screenshot](Timer.PNG)
@@ -25,6 +26,7 @@ Command : $`timer <seconds> [m]`
 
 2. StopWatch
 A stopwatch begins and shows the time elapsed till any key is pressed
+
 Command : $`stpw`
 ![Stopwatch Screenshot](Stopwatch.PNG)
 
@@ -35,6 +37,7 @@ Command history management with Windows-style bidirectional scrolling with UP an
 
 4. Date in UTC timezone
 displays the current date and time in UTC timezone
+
 Command: $`udate`
 
 ![Udate Screenshot](Udate.PNG)
@@ -42,6 +45,7 @@ Command: $`udate`
 
 5. Reverse sort
 Sorts anything and everything in reverse :)
+
 Command : $`rsort`
 
 ![Rsort Screenshot](Rsort.PNG)
@@ -49,6 +53,7 @@ Command : $`rsort`
 
 6. Caps
 Capitalizes the text provided
+
 Command: $`caps`
 
 ![Caps Screenshot](Caps.PNG)
@@ -56,6 +61,7 @@ Command: $`caps`
 
 7. Current day of the week
 Shows the current day in the week
+
 Command : $`day`
 
 ![Day Screenshot](Day.PNG)
